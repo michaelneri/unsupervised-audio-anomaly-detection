@@ -1,6 +1,6 @@
 # Low-complexity Unsupervised Audio Anomaly Detection exploiting Separable Convolutions and Angular Loss
 
-<img src="images/ProposedASD.png"/>
+<img src="images/ProposedASD.jpg"/>
 
 Official repository of the work "Low-complexity Unsupervised Audio Anomaly Detection exploiting Separable Convolutions and Angular Loss" sumbitted to IEEE Sensors Letters.
 
