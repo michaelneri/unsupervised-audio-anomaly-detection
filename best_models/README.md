@@ -1,0 +1,1 @@
+This folder will contain all the intermediate models. Remove this file.
