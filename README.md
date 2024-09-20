@@ -2,7 +2,7 @@
 
 <img src="images/ProposedASD.jpg"/>
 
-Official repository of the work "Low-complexity Unsupervised Audio Anomaly Detection exploiting Separable Convolutions and Angular Loss" sumbitted to IEEE Sensors Letters.
+Official repository of the work "Low-complexity Unsupervised Audio Anomaly Detection exploiting Separable Convolutions and Angular Loss" submitted to IEEE Sensors Letters.
 
 ## Authors
 Michael Neri, Marco Carli
