@@ -7,7 +7,10 @@ Official repository of the work "Low-complexity Unsupervised Audio Anomaly Detec
 ## Authors
 Michael Neri, Marco Carli
 
-Department od Industrial, Electronic, and Mechanical Engineering, Roma Tre University, Rome, Italy
+Department of Industrial, Electronic, and Mechanical Engineering, Roma Tre University, Rome, Italy
+
+
+----------------------------------------------------------------------------
 
 If you use any part of this work please cite the following reference:
 
@@ -22,7 +25,4 @@ If you use any part of this work please cite the following reference:
   pages={},
   doi={10.1109/LSENS.2024.3480450}
   }
-
-
-
 ```
